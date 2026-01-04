@@ -16,6 +16,9 @@ export const metadata: Metadata = {
   title: "The Greenville SC Guide | Your Complete Guide to Greenville & Spartanburg",
   description: "Discover the best tennis courts, golf courses, massage therapy, RV parks, and more in Greenville and Spartanburg, South Carolina. Your local guide to Upstate SC.",
   keywords: ["Greenville SC", "Spartanburg SC", "Upstate South Carolina", "local guide", "things to do"],
+  verification: {
+    google: "Th5bMNCHWTy_wiWfkrCnzbmfJvviL_sCOeZX6CU-JHc",
+  },
   openGraph: {
     title: "The Greenville SC Guide",
     description: "Your complete guide to Greenville & Spartanburg, SC",
