@@ -19,6 +19,9 @@ export const metadata: Metadata = {
   verification: {
     google: "Th5bMNCHWTy_wiWfkrCnzbmfJvviL_sCOeZX6CU-JHc",
   },
+  other: {
+    'google-adsense-account': 'ca-pub-7562326547855611',
+  },
   openGraph: {
     title: "The Greenville SC Guide",
     description: "Your complete guide to Greenville & Spartanburg, SC",
